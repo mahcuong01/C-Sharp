@@ -1,0 +1,7 @@
+C:\Users\ASUS PC\Desktop\code\c#\for in for\bin\Debug\for in for.exe.config
+C:\Users\ASUS PC\Desktop\code\c#\for in for\bin\Debug\for in for.exe
+C:\Users\ASUS PC\Desktop\code\c#\for in for\bin\Debug\for in for.pdb
+C:\Users\ASUS PC\Desktop\code\c#\for in for\obj\Debug\for in for.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\code\c#\for in for\obj\Debug\for in for.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\code\c#\for in for\obj\Debug\for in for.exe
+C:\Users\ASUS PC\Desktop\code\c#\for in for\obj\Debug\for in for.pdb
