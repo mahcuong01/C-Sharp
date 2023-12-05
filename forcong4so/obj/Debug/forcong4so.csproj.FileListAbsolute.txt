@@ -1,0 +1,14 @@
+C:\Users\ASUS PC\Desktop\forcong4so\bin\Debug\forcong4so.exe.config
+C:\Users\ASUS PC\Desktop\forcong4so\bin\Debug\forcong4so.exe
+C:\Users\ASUS PC\Desktop\forcong4so\bin\Debug\forcong4so.pdb
+C:\Users\ASUS PC\Desktop\forcong4so\obj\Debug\forcong4so.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\forcong4so\obj\Debug\forcong4so.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\forcong4so\obj\Debug\forcong4so.exe
+C:\Users\ASUS PC\Desktop\forcong4so\obj\Debug\forcong4so.pdb
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\bin\Debug\forcong4so.exe.config
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\bin\Debug\forcong4so.exe
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\bin\Debug\forcong4so.pdb
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\obj\Debug\forcong4so.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\obj\Debug\forcong4so.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\obj\Debug\forcong4so.exe
+C:\Users\ASUS PC\Desktop\code\c#\forcong4so\obj\Debug\forcong4so.pdb

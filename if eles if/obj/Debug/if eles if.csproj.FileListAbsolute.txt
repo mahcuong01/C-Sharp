@@ -1,0 +1,7 @@
+C:\Users\ASUS PC\Desktop\if eles if\bin\Debug\if eles if.exe.config
+C:\Users\ASUS PC\Desktop\if eles if\bin\Debug\if eles if.exe
+C:\Users\ASUS PC\Desktop\if eles if\bin\Debug\if eles if.pdb
+C:\Users\ASUS PC\Desktop\if eles if\obj\Debug\if eles if.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\if eles if\obj\Debug\if eles if.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\if eles if\obj\Debug\if eles if.exe
+C:\Users\ASUS PC\Desktop\if eles if\obj\Debug\if eles if.pdb

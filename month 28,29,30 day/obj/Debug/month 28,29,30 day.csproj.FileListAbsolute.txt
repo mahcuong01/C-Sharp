@@ -1,0 +1,7 @@
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\obj\Debug\month 28,29,30 day.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\obj\Debug\month 28,29,30 day.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\bin\Debug\month 28,29,30 day.exe.config
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\bin\Debug\month 28,29,30 day.exe
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\bin\Debug\month 28,29,30 day.pdb
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\obj\Debug\month 28,29,30 day.exe
+C:\Users\ASUS PC\Desktop\month 28,29,30 day\obj\Debug\month 28,29,30 day.pdb

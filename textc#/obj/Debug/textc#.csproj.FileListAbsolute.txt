@@ -1,0 +1,7 @@
+C:\Users\ASUS PC\Desktop\textc#\obj\Debug\textc#.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\textc#\obj\Debug\textc#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\textc#\bin\Debug\textc#.exe.config
+C:\Users\ASUS PC\Desktop\textc#\bin\Debug\textc#.exe
+C:\Users\ASUS PC\Desktop\textc#\bin\Debug\textc#.pdb
+C:\Users\ASUS PC\Desktop\textc#\obj\Debug\textc#.exe
+C:\Users\ASUS PC\Desktop\textc#\obj\Debug\textc#.pdb

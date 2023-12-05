@@ -1,0 +1,14 @@
+C:\Users\ASUS PC\Desktop\for\bin\Debug\@for.exe.config
+C:\Users\ASUS PC\Desktop\for\bin\Debug\@for.exe
+C:\Users\ASUS PC\Desktop\for\bin\Debug\@for.pdb
+C:\Users\ASUS PC\Desktop\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\for\obj\Debug\@for.exe
+C:\Users\ASUS PC\Desktop\for\obj\Debug\@for.pdb
+C:\Users\ASUS PC\Desktop\code\c#\for\bin\Debug\@for.exe.config
+C:\Users\ASUS PC\Desktop\code\c#\for\bin\Debug\@for.exe
+C:\Users\ASUS PC\Desktop\code\c#\for\bin\Debug\@for.pdb
+C:\Users\ASUS PC\Desktop\code\c#\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\code\c#\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\code\c#\for\obj\Debug\@for.exe
+C:\Users\ASUS PC\Desktop\code\c#\for\obj\Debug\@for.pdb

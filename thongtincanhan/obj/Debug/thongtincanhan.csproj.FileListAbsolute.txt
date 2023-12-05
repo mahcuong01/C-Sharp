@@ -1,0 +1,7 @@
+C:\Users\ASUS PC\Desktop\thongtincanhan\obj\Debug\thongtincanhan.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\thongtincanhan\obj\Debug\thongtincanhan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\thongtincanhan\bin\Debug\thongtincanhan.exe.config
+C:\Users\ASUS PC\Desktop\thongtincanhan\bin\Debug\thongtincanhan.exe
+C:\Users\ASUS PC\Desktop\thongtincanhan\bin\Debug\thongtincanhan.pdb
+C:\Users\ASUS PC\Desktop\thongtincanhan\obj\Debug\thongtincanhan.exe
+C:\Users\ASUS PC\Desktop\thongtincanhan\obj\Debug\thongtincanhan.pdb

@@ -1,0 +1,2 @@
+C:\Users\ASUS PC\Desktop\texta\obj\Debug\texta.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\texta\obj\Debug\texta.csproj.CoreCompileInputs.cache

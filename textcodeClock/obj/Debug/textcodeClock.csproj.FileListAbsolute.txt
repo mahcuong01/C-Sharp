@@ -1,0 +1,7 @@
+C:\Users\ASUS PC\Desktop\textcodeClock\obj\Debug\textcodeClock.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\textcodeClock\obj\Debug\textcodeClock.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\textcodeClock\bin\Debug\textcodeClock.exe.config
+C:\Users\ASUS PC\Desktop\textcodeClock\bin\Debug\textcodeClock.exe
+C:\Users\ASUS PC\Desktop\textcodeClock\bin\Debug\textcodeClock.pdb
+C:\Users\ASUS PC\Desktop\textcodeClock\obj\Debug\textcodeClock.exe
+C:\Users\ASUS PC\Desktop\textcodeClock\obj\Debug\textcodeClock.pdb
